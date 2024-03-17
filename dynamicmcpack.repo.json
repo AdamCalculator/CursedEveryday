@@ -1,0 +1,17 @@
+{
+	"formatVersion": 1,
+	"build": 1,
+	"name": "CursedEveryday",
+	"contents": [
+		{
+			"url": "cursed1.json",
+			"hash": "18b2d2e13244bf4613f8d8e91a677802db4105ae",
+			"id": "cursed1"
+		},
+		{
+			"url": "packmeta.json",
+			"hash": "3055ad57ae437a8b68922e55d7fa20235c96778f",
+			"id": "mackmeta"
+		}
+	]
+}
