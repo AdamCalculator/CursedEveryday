@@ -1,16 +1,16 @@
 {
 	"formatVersion": 1,
-	"build": 1,
+	"build": 2,
 	"name": "CursedEveryday",
 	"contents": [
 		{
 			"url": "cursed1.json",
-			"hash": "18b2d2e13244bf4613f8d8e91a677802db4105ae",
+			"hash": "19ae08035a9522b9de1c22f0c4162a8ec58f94a5",
 			"id": "cursed1"
 		},
 		{
 			"url": "packmeta.json",
-			"hash": "3055ad57ae437a8b68922e55d7fa20235c96778f",
+			"hash": "0f76b16060c50eeb68b01e60715a0091ba580af2",
 			"id": "packmeta"
 		}
 	]

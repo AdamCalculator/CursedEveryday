@@ -3,14 +3,11 @@
 	"content": {
 		"parent": "assets",
 		"files": {
-			"minecraft/lang/ru_ru.json": {
-				"hash": "23e41b79efa66173d1a37110fade61ba2d66a41b"
+			"minecraft/textures/block/carved_pumpkin.png": {
+				"hash": "a4c99d2a6a952367d0d5fc8378dc643961d75f18"
 			},
-			"minecraft/lang/en_us.json": {
-				"hash": "683f2db075f21a07929653cafb929d37c8eff8ba"
-			},
-			"minecraft/textures/item/enchanted_book.png": {
-				"hash": "f8582ce5b2512057d68a57d46138ec87361a6ec2"
+			"minecraft/textures/misc/pumpkinblur.png": {
+				"hash": "17861486f27d96db4d858b941135d954e8cd9c80"
 			}
 		}
 	}
