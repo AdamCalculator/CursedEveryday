@@ -6,12 +6,12 @@
 		{
 			"url": "pack/cursed1.json",
 			"hash": "c6911f3769b68ab7e0b201437ecba032db0a27ae",
-			"id": "cursed_cursed1"
+			"id": "cursedcursed1"
 		},
 		{
 			"url": "pack/packmeta.json",
 			"hash": "e5ca36f8edae9285d56e839340455022d7d483ca",
-			"id": "cursed_packmeta",
+			"id": "cursedpackmeta",
 			"required": true
 		}
 	]
