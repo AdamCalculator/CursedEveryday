@@ -1,0 +1,15 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "assets",
+		"remote_parent": "pack",
+		"files": {
+			"minecraft/textures/item/crossbow_firework.png": {
+				"hash": "75490e9a3ade03bb9053af5326610e2cb87255de"
+			},
+			"minecraft/textures/item/firework_rocket.png": {
+				"hash": "76772296b12a41bcec0e064ffe4e204095c5c82f"
+			}
+		}
+	}
+}

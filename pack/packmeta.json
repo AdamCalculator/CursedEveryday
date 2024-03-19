@@ -2,6 +2,7 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
+		"remote_parent": "pack",
 		"files": {
 			"pack.mcmeta": {
 				"hash": "795e9bdde4773784f63fec3a5b81010ff0e5792d"

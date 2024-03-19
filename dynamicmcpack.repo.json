@@ -1,17 +1,18 @@
 {
 	"formatVersion": 1,
-	"build": 2,
+	"build": 3,
 	"name": "CursedEveryday",
 	"contents": [
 		{
-			"url": "cursed1.json",
-			"hash": "19ae08035a9522b9de1c22f0c4162a8ec58f94a5",
-			"id": "cursed1"
+			"url": "pack/cursed1.json",
+			"hash": "c6911f3769b68ab7e0b201437ecba032db0a27ae",
+			"id": "cursed_cursed1"
 		},
 		{
-			"url": "packmeta.json",
-			"hash": "0f76b16060c50eeb68b01e60715a0091ba580af2",
-			"id": "packmeta"
+			"url": "pack/packmeta.json",
+			"hash": "e5ca36f8edae9285d56e839340455022d7d483ca",
+			"id": "cursed_packmeta",
+			"required": true
 		}
 	]
 }
