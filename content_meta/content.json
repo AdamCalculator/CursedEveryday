@@ -2,10 +2,10 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "pack",
+		"remote_parent": "content_meta",
 		"files": {
 			"pack.mcmeta": {
-				"hash": "1585d5c2523f618071f2eaea005edd2738a8792d"
+				"hash": "98ac4fbce3f01b17d419f7dca67d0df5de271e06"
 			}
 		}
 	}

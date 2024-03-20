@@ -1,0 +1,12 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "assets",
+		"remote_parent": "content_cursed",
+		"files": {
+			"minecraft/textures/item/totem_of_undying.png": {
+				"hash": "7413b52354617a8a15ec0975d09b29fa1726f6c7"
+			}
+		}
+	}
+}
