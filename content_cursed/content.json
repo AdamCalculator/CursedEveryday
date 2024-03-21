@@ -4,8 +4,38 @@
 		"parent": "assets",
 		"remote_parent": "content_cursed",
 		"files": {
-			"minecraft/textures/item/totem_of_undying.png": {
-				"hash": "7413b52354617a8a15ec0975d09b29fa1726f6c7"
+			"minecraft/textures/particle/big_smoke_1.png": {
+				"hash": "36bd866e7afc02f9226d109aeda7f684ac69aeb1"
+			},
+			"minecraft/textures/particle/big_smoke_8.png": {
+				"hash": "6107c5040cbb64bd5678b96bacb952bd75ae7fcc"
+			},
+			"minecraft/textures/particle/big_smoke_5.png": {
+				"hash": "ebfb390136b3448941ea8ef16b112e34abaef8e0"
+			},
+			"minecraft/textures/particle/big_smoke_6.png": {
+				"hash": "dabdbc6f37b2eae92e7e8ee20d229eb21d898226"
+			},
+			"minecraft/textures/particle/big_smoke_2.png": {
+				"hash": "93fd066828f13c3d2a19337180072adeb595d04c"
+			},
+			"minecraft/textures/particle/big_smoke_3.png": {
+				"hash": "b92426d40434680c25eac7195c2f47944a6ae972"
+			},
+			"minecraft/textures/particle/big_smoke_0.png": {
+				"hash": "4ba44567c21534b27cd341be79036668210dd373"
+			},
+			"minecraft/textures/particle/big_smoke_11.png": {
+				"hash": "ca55daeef2e2d84ccd64608cf889ac321c18d4c2"
+			},
+			"minecraft/textures/particle/big_smoke_7.png": {
+				"hash": "bf52fcd21614bfef8954b04eb3c140b4271109b4"
+			},
+			"minecraft/textures/particle/big_smoke_10.png": {
+				"hash": "c0808160d7f34ca4cf6c5e94e1ce652fad4a23bb"
+			},
+			"minecraft/textures/particle/big_smoke_9.png": {
+				"hash": "c91f106bebbda068a5388eb08fd8d73203d6993a"
 			}
 		}
 	}

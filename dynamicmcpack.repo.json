@@ -1,17 +1,17 @@
 {
 	"formatVersion": 1,
-	"build": 6,
+	"build": 7,
 	"name": "CursedEveryday",
 	"contents": [
 		{
 			"url": "content_meta/content.json",
-			"hash": "072bc71f7f1b1a2add283ba404c9fc56e040036f",
+			"hash": "a42f562c5c3290a5ef536921350384d1672a239f",
 			"id": "cursedeverydaymeta",
 			"required": true
 		},
 		{
 			"url": "content_cursed/content.json",
-			"hash": "a570b8e4bdc21032137717857b91d38fb9bf55bc",
+			"hash": "cd8edee48d8ec0fc037e3fb59b8552a9a40c6440",
 			"id": "cursedeverydaycursed"
 		}
 	]
