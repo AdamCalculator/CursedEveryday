@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 5,
+	"build": 6,
 	"name": "CursedEveryday",
 	"contents": [
 		{
 			"url": "content_meta/content.json",
-			"hash": "10ecd252f8a6ab5652fc274c69d620a732cee6a6",
+			"hash": "072bc71f7f1b1a2add283ba404c9fc56e040036f",
 			"id": "cursedeverydaymeta",
 			"required": true
 		},

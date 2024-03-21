@@ -4,6 +4,9 @@
 		"parent": "",
 		"remote_parent": "content_meta",
 		"files": {
+			"pack.png": {
+				"hash": "acf34371506d1f67a0afa71aaca8967b3b20223a"
+			},
 			"pack.mcmeta": {
 				"hash": "98ac4fbce3f01b17d419f7dca67d0df5de271e06"
 			}
