@@ -3,7 +3,7 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 3
+DVER = 4
 DDEBUG = False
 #
 
@@ -123,6 +123,8 @@ def init_repo():
 def save_jrepo():
     global jrepo
     open("dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
+    calc_sha1_hash("dynamicmcpack.repo.json")
+
 
 
 def add_new_content():
@@ -156,6 +158,7 @@ def add_new_content():
         }
     }
     open(file, "w").write(json.dumps(contents[file], indent='\t'))
+    calc_sha1_hash(file)
     save_jrepo()
     print(f"Content file added to repo with not calculated hash and created at {file}")
 
@@ -180,6 +183,7 @@ def recalculate_hashes():
             fileJson["hash"] = calc_sha1_hash(globalFilePath)
             debug(f"recalculate_hashes: Set hash of {globalFilePath}")
         open(x, "w").write(json.dumps(contents[x], indent='\t'))
+        calc_sha1_hash(x)
 
         # Calculate hash for content.json file and write to repo main file
         i = 0
@@ -238,6 +242,7 @@ def remake_content(file, ask_subdir=True):
         }
 
     open(file, "w").write(json.dumps(contents[file], indent='\t'))
+    calc_sha1_hash(file)
 
 
 def input_exists_content_file():
