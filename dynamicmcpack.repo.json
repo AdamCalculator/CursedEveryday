@@ -1,18 +1,19 @@
 {
 	"formatVersion": 1,
-	"build": 7,
+	"build": 8,
 	"name": "CursedEveryday",
 	"contents": [
 		{
 			"url": "content_meta/content.json",
-			"hash": "a42f562c5c3290a5ef536921350384d1672a239f",
-			"id": "cursedeverydaymeta",
+			"hash": "e8f92834c66a8c6809325c1520694e229eb3b692",
+			"id": "meta",
 			"required": true
 		},
 		{
 			"url": "content_cursed/content.json",
-			"hash": "cd8edee48d8ec0fc037e3fb59b8552a9a40c6440",
-			"id": "cursedeverydaycursed"
+			"hash": "734de1f3020f241ee10676dc02490d7e9f71d64e",
+			"id": "cursed",
+			"name": "Cursed content"
 		}
 	]
 }
