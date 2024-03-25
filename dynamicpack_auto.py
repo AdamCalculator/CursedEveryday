@@ -3,7 +3,7 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 4
+DVER = 5
 DDEBUG = False
 #
 
@@ -30,7 +30,11 @@ convert_line_ending_rules = {
     ".mcmeta": True,
     ".json": True,
     ".jem": True,
-    ".properties": True
+    ".properties": True,
+    ".fsh": True
+    ".vsh": True,
+    ".lang": True,
+    ".DS_Store": False
 }
 
 
