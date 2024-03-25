@@ -4,6 +4,9 @@
 		"parent": "assets",
 		"remote_parent": "content_cursed",
 		"files": {
+			"minecraft/textures/environment/sun.png": {
+				"hash": "d94bf5da62fce0cfc956c1022e75687e2d417bce"
+			},
 			"minecraft/textures/block/dandelion.png": {
 				"hash": "5c598ee9b41ab908a663fbcfb33da939d121a4ef"
 			},
