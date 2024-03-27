@@ -31,7 +31,7 @@ convert_line_ending_rules = {
     ".json": True,
     ".jem": True,
     ".properties": True,
-    ".fsh": True
+    ".fsh": True,
     ".vsh": True,
     ".lang": True,
     ".DS_Store": False

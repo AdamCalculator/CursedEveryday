@@ -5,10 +5,10 @@
 		"remote_parent": "content_cursed",
 		"files": {
 			"minecraft/textures/environment/sun.png": {
-				"hash": "d94bf5da62fce0cfc956c1022e75687e2d417bce"
+				"hash": "09dae0777de1705e8acd0ff84c0bb6b7e3e22f63"
 			},
-			"minecraft/textures/block/dandelion.png": {
-				"hash": "5c598ee9b41ab908a663fbcfb33da939d121a4ef"
+			"minecraft/textures/block/shroomlight.png": {
+				"hash": "336e9f4e6d7d1400d8a308a33e703e8b33ea5434"
 			},
 			"minecraft/textures/particle/big_smoke_11.png": {
 				"hash": "ca55daeef2e2d84ccd64608cf889ac321c18d4c2"
