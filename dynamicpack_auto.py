@@ -3,7 +3,7 @@
 # Mod GitHub: https://github.com/AdamCalculator/DynamicPack
 # Author: AdamCalculator
 #
-DVER = 5
+DVER = 6
 DDEBUG = False
 #
 
@@ -207,7 +207,7 @@ def remake_content(file, ask_subdir=True):
         print("No exists packs... Create already!")
         return
 
-    remDir = os.path.dirname(file)
+    remDir = contents[file]["content"]["remote_parent"]
     directory = contents[file]["content"]["parent"]
     if ask_subdir:
         directory = input(f"Subdirectory to scan (in remote_parent={remDir}) -> ")
