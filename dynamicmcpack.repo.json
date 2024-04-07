@@ -14,6 +14,11 @@
 			"hash": "627b65fa0f0bd7e240df9ee27db10d6e0e3734e4",
 			"id": "cursed",
 			"name": "Cursed content"
+		},
+		{
+			"url": "test.json",
+			"hash": "71ac8ae0f1d94f288ea2226d0fe2957c0861ae91",
+			"id": "test"
 		}
 	]
 }
