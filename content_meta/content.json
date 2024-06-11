@@ -4,11 +4,13 @@
 		"parent": "",
 		"remote_parent": "content_meta",
 		"files": {
-			"pack.png": {
-				"hash": "acf34371506d1f67a0afa71aaca8967b3b20223a"
-			},
 			"pack.mcmeta": {
-				"hash": "d6b4ba2fa50d7195f44bdbb7ee31cea5fa71deb1"
+				"hash": "d6b4ba2fa50d7195f44bdbb7ee31cea5fa71deb1",
+				"size": 103
+			},
+			"pack.png": {
+				"hash": "acf34371506d1f67a0afa71aaca8967b3b20223a",
+				"size": 6436
 			}
 		}
 	}

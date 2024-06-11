@@ -5,13 +5,14 @@
 	"contents": [
 		{
 			"url": "content_meta/content.json",
-			"hash": "d4d13d775669aa5e52546d6ac55dabd6492683b0",
+			"hash": "5e4d4ad1e9714487263c51f5f83c448c0708773a",
 			"id": "meta",
+			"hidden": true,
 			"required": true
 		},
 		{
 			"url": "content_cursed/content.json",
-			"hash": "627b65fa0f0bd7e240df9ee27db10d6e0e3734e4",
+			"hash": "6e6739297dac80078bbc4890567f05d4015553db",
 			"id": "cursed",
 			"name": "Cursed content"
 		}
